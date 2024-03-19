@@ -1,0 +1,322 @@
+{
+	"elapsedMilliseconds":195,
+	"artObject":{
+		"links":{
+			"search":"http://www.rijksmuseum.nl/api/nl/collection"
+		},
+		"id":"en-SK-A-1718",
+		"priref":"5853",
+		"objectNumber":"SK-A-1718",
+		"language":"en",
+		"title":"Winter Landscape with Ice Skaters",
+		"copyrightHolder":null,
+		"webImage":{
+			"guid":"4f834f63-3aeb-48a2-8a22-bcac12ffc3b9",
+			"offsetPercentageX":50,
+			"offsetPercentageY":50,
+			"width":2928,
+			"height":1691,
+			"url":"https://lh3.googleusercontent.com/1pTfYJlLwVTifKj4PlsWPyAg4PcIVBAiVvB8sameSnmm7HRd056abNUIRq33rgry7u9t-ju-eHOnbfqQpK4q_8IwzIXZ4WgrqZW9l7U=s0"
+		},
+		"colors":[
+			{
+				"percentage":37,
+				"hex":"#B0AD92"
+			},
+			{
+				"percentage":20,
+				"hex":" #64614A"
+			},
+			{
+				"percentage":18,
+				"hex":" #D7D3BA"
+			},
+			{
+				"percentage":16,
+				"hex":" #76806F"
+			},
+			{
+				"percentage":4,
+				"hex":" #373B30"
+			},
+			{
+				"percentage":2,
+				"hex":" #1F1C15"
+			},
+			{
+				"percentage":0,
+				"hex":" #9E824E"
+			}
+		],
+		"colorsWithNormalization":[
+			{
+				"originalHex":"#B0AD92",
+				"normalizedHex":"#E0CC91"
+			},
+			{
+				"originalHex":" #64614A",
+				"normalizedHex":"#737C84"
+			},
+			{
+				"originalHex":" #D7D3BA",
+				"normalizedHex":"#FBF6E1"
+			},
+			{
+				"originalHex":" #76806F",
+				"normalizedHex":"#737C84"
+			},
+			{
+				"originalHex":" #373B30",
+				"normalizedHex":"#2F4F4F"
+			},
+			{
+				"originalHex":" #1F1C15",
+				"normalizedHex":"#000000"
+			},
+			{
+				"originalHex":" #9E824E",
+				"normalizedHex":"#E0CC91"
+			}
+		],
+		"normalizedColors":[
+			{
+				"percentage":37,
+				"hex":"#D2B48C"
+			},
+			{
+				"percentage":20,
+				"hex":" #696969"
+			},
+			{
+				"percentage":18,
+				"hex":" #F5F5DC"
+			},
+			{
+				"percentage":16,
+				"hex":" #808080"
+			},
+			{
+				"percentage":4,
+				"hex":" #2F4F4F"
+			},
+			{
+				"percentage":2,
+				"hex":" #000000"
+			},
+			{
+				"percentage":0,
+				"hex":" #B8860B"
+			}
+		],
+		"normalized32Colors":[
+			{
+				"percentage":38,
+				"hex":"#E0CC91"
+			},
+			{
+				"percentage":36,
+				"hex":" #737C84"
+			},
+			{
+				"percentage":18,
+				"hex":" #FBF6E1"
+			},
+			{
+				"percentage":4,
+				"hex":" #2F4F4F"
+			},
+			{
+				"percentage":2,
+				"hex":" #000000"
+			}
+		],
+		"materialsThesaurus":[
+
+		],
+		"techniquesThesaurus":[
+
+		],
+		"productionPlacesThesaurus":[
+
+		],
+		"titles":[
+			"Winter Landscape with Skaters",
+			"Winter Landscape with Iceskaters"
+		],
+		"description":"Winterlandschap met ijsvermaak. Dorpsgezicht met vele figuren op het ijs: schaatsers, kolfspelers, wandelaars. Rechts een arrenslede, links een kerk.",
+		"labelText":null,
+		"objectTypes":[
+			"painting"
+		],
+		"objectCollection":[
+			"paintings"
+		],
+		"makers":[
+
+		],
+		"principalMakers":[
+			{
+				"name":"Hendrick Avercamp",
+				"unFixedName":"Avercamp, Hendrick",
+				"placeOfBirth":"Amsterdam",
+				"dateOfBirth":"1585",
+				"dateOfBirthPrecision":null,
+				"dateOfDeath":"1634",
+				"dateOfDeathPrecision":null,
+				"placeOfDeath":"Kampen",
+				"occupation":[
+					"draughtsman"
+				],
+				"roles":[
+					"painter"
+				],
+				"nationality":null,
+				"biography":null,
+				"productionPlaces":[
+
+				],
+				"qualification":"signed by artist",
+				"labelDesc":"signed by artist Hendrick Avercamp (1585 - 1634)"
+			}
+		],
+		"plaqueDescriptionDutch":"Hendrick Avercamp maakte van het winterlandschap een zelfstandig onderwerp. Typerend voor zijn vroege landschappen is de hoge horizon. Deze stelde Avercamp in staat veel aandacht te besteden aan de tientallen figuurtjes op het ijs. Vanuit een vogelvluchtperspectief gaf hij veel amusante details weer, zoals het vrijende paartje en de poepende figuren links en de plassende man middenachter.",
+		"plaqueDescriptionEnglish":"Hendrick Avercamp turned the winter landscape into a subject in its own right. A typical feature of his early work is the high horizon. This enabled Avercamp to focus on the dozens of figures on the ice. He showed all kinds of uncouth details in this bird’s-eye view, including couples making love and going to the toilet and in the distance, in the middle, a man urinating.",
+		"principalMaker":"Hendrick Avercamp",
+		"artistRole":null,
+		"associations":[
+
+		],
+		"acquisition":{
+			"method":"purchase",
+			"date":"1898-01-01T00:00:00",
+			"creditLine":"Purchased with the support of the Vereniging Rembrandt"
+		},
+		"exhibitions":[
+
+		],
+		"materials":[
+			"panel",
+			"oil paint (paint)"
+		],
+		"techniques":[
+
+		],
+		"productionPlaces":[
+
+		],
+		"dating":{
+			"presentingDate":"c. 1608",
+			"sortingDate":1608,
+			"period":17,
+			"yearEarly":1608,
+			"yearLate":1608
+		},
+		"classification":{
+			"iconClassIdentifier":[
+				"23F41",
+				"43C244",
+				"43C241",
+				"43C41431",
+				"11Q712",
+				"47I1461"
+			],
+			"iconClassDescription":[
+				"winter landscape; landscape symbolizing winter (the four seasons of the year)",
+				"skates (winter sports)",
+				"sledge, sleigh (winter sports)",
+				"'kolf' on the ice",
+				"church (exterior)",
+				"hay-stack"
+			],
+			"motifs":[
+
+			],
+			"events":[
+
+			],
+			"periods":[
+
+			],
+			"places":[
+
+			],
+			"people":[
+
+			],
+			"objectNumbers":[
+				"SK-A-1718"
+			]
+		},
+		"hasImage":true,
+		"historicalPersons":[
+
+		],
+		"inscriptions":[
+
+		],
+		"documentation":[
+			"Inzoomer object op zaal, 2013 (Nederlands/English).",
+			"M. Verhoef, 'Van sneeuw naar verf', Kunstschrift 53 (2010) nr. 6, p. 14, 15",
+			"Corine Koole, 'Literair levensverhaal : Hendrick Avercamp', Oog 3 (2009) nr. 5, p. 76-87.",
+			"Marco van Baalen, 'Uitgelijnd : Winterlandschap met ijsvermaak', De Rijksmuseum Kunstkrant 30 (2005) nr. 1, p. 8-9."
+		],
+		"catRefRPK":[
+
+		],
+		"principalOrFirstMaker":"Hendrick Avercamp",
+		"dimensions":[
+			{
+				"unit":"cm",
+				"type":"height",
+				"precision":null,
+				"part":"support",
+				"value":"77.3"
+			},
+			{
+				"unit":"cm",
+				"type":"width",
+				"precision":null,
+				"part":"support",
+				"value":"131.9"
+			}
+		],
+		"physicalProperties":[
+
+		],
+		"physicalMedium":"oil on panel",
+		"longTitle":"Winter Landscape with Ice Skaters, Hendrick Avercamp, c. 1608",
+		"subTitle":"h 77.3cm × w 131.9cm",
+		"scLabelLine":"Hendrick Avercamp (1585–1634), oil on panel, c. 1608",
+		"label":{
+			"title":"Winter Landscape with Ice Skaters",
+			"makerLine":"Hendrick Avercamp (1585–1634), oil on panel, c. 1608",
+			"description":"The high vantage point of this painting turns it into a sampler of human – and animal – activity during a harsh winter. Hundreds of people are out on the ice, most of them for pleasure, others working out of dire necessity. Avercamp did not shy away from grim details: in the left foreground crows and a dog feast on the carcass of a horse that has frozen to death.",
+			"notes":"Multimediatour",
+			"date":"2018-02-27"
+		},
+		"showImage":true,
+		"location":"HG-2.6"
+	},
+	"artObjectPage":{
+		"id":"en-SK-A-1718",
+		"similarPages":[
+
+		],
+		"lang":"en",
+		"objectNumber":"SK-A-1718",
+		"tags":[
+
+		],
+		"plaqueDescription":"\r\nHendrick Avercamp turned the winter landscape into a subject in its own right. A typical feature of his early work is the high horizon. This enabled Avercamp to focus on the dozens of figures on the ice. He showed all kinds of uncouth details in this bird’s-eye view, including couples making love and going to the toilet and in the distance, in the middle, a man urinating. ",
+		"audioFile1":null,
+		"audioFileLabel1":null,
+		"audioFileLabel2":null,
+		"createdOn":"0001-01-01T00:00:00",
+		"updatedOn":"2012-09-18T14:06:34.2668163+00:00",
+		"adlibOverrides":{
+			"titel":null,
+			"maker":null,
+			"etiketText":null
+		}
+	}
+}
